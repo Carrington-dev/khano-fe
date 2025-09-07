@@ -275,7 +275,7 @@ export default function ComingSoonPage() {
                   ))}
                 </div>
                 <div className="text-left">
-                  <div className="text-white font-bold text-lg">2,156+</div>
+                  <div className="text-white font-bold text-lg">0,156+</div>
                   <div className="text-white/60 text-sm">Companies interested</div>
                 </div>
               </div>
